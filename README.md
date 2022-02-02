@@ -31,6 +31,6 @@ We can see the first image works fine.
 
 - 152갸3108.jpg
 
-![123가4568](https://github.com/ddingz/License_Plate_Detection/blob/main/152%EA%B0%B83108.jpg "123가4568.jpg")
+![152갸3108](https://github.com/ddingz/License_Plate_Detection/blob/main/152%EA%B0%B83108.jpg "152갸3108.jpg")
 
 In the second image, it can be seen that the result was a little disappointing.
